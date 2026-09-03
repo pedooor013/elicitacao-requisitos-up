@@ -22,4 +22,4 @@
 |---|-----------|-------|-------|--------------------|
 | 1 | O sistema deve avisar se há produtos com o estoque chegando ao fim | Humana | Estratégico | — |
 | 2 | O sistema deve avisar em tempo real se o pedido tem estoque suficiente | Não Humana | Concorrentes | — |
-| 3 | O sistema não deve aceitar pedidos com quantidade menor que 0 | Não Humana | Operacional | Estoquista |
+| 3 | O sistema não deve aceitar pedidos com quantidade menor que 0 | Humana | Operacional | Estoquista |
